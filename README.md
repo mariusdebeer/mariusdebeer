@@ -6,6 +6,7 @@ I am a tinkerer of things, and in love with technology.
 - Infrastucture
 - Linux
 - Ansible
+- Docker
 - Virtualization
 
 I am open to work.  mariusdebeer[at]icloud.com
